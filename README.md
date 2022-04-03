@@ -18,5 +18,6 @@ Speed Hacks
 # Build And Use
 To use build the loader, render, and hacks file into a dll then use the sharpmonoinjector to inject the dll into muck. 
 
+LOADER NOT INCLUDED IN SRC
 SharpMonoInjector: https://github.com/warbler/SharpMonoInjector
 Tutorials Coming Soon!
